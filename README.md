@@ -1,4 +1,8 @@
-# 21S1-EODP-P2
+
+# Simple Visualization and Analysis of Income vs Population (Aus)
+Simple Visualization and Analysis of Income vs Population (Aus)
+
+
 
 Income data：
 1. SA2 NAME Normialization
